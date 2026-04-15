@@ -11,7 +11,7 @@ This project analyses customer churn in a telecommunications company using data 
 
 ---
 
-## ⚙️ Data Preparation
+##  Data Preparation
 - Missing values handled using median and mode
 - Categorical variables encoded using Label Encoding
 - Dataset split into:
