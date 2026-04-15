@@ -62,3 +62,7 @@ Outputs:
 - Scikit-learn
 - Matplotlib
 - TensorFlow / Keras
+
+##  Model File
+The trained ANN model is saved as `models/ann_model.h5`.  
+This file contains the saved neural network architecture and learned weights for churn prediction.
